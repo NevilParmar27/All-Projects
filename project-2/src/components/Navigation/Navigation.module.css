@@ -1,0 +1,16 @@
+
+.navigation{
+    display: flex;
+    height: 72px;
+    justify-content: space-between;
+    align-items: center;
+    /* background-color:aqua ; */
+    padding: 0 12px;
+  }
+  
+ul{
+    display: flex;
+    gap: 25px;
+    list-style: none;
+    font-weight: 500;
+  }  
